@@ -4,7 +4,7 @@
  
  <p>- <i>A Master's student, passionate about analytics, coding, statistics, predictive models with good problem-solving skills.</i></p>
 
-<img src="https://www.vecteezy.com/vector-art/539819-data-word-lettering-illustration"/>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 
 ## ⚡🙋‍♂️ About Me
